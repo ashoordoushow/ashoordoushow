@@ -1,7 +1,7 @@
 # 🌱 Hi, my name is Ashoor! 🌱
 
-
-<p style="background-color:gray; color:white; font-style:italic; padding:5px 10px; margin: 0; text-align:center;">Today's good mood is sponsored by coffee ☕️</p>
+<!-- This is the gray bar for mood -->
+> _Today's good mood is sponsored by coffee ☕️_
 
 Hello everyone, I'm Ashoor, a Full-Stack Web Developer | Junior Software Engineer, who brings a unique blend of analytical thinking and creative problem-solving to web development. Fresh from completing an intensive coding bootcamp at Actualize, I've mastered full-stack development using JavaScript, React.js, Ruby on Rails, SQL, and many more languages/frameworks, while gaining hands-on experience building real-world applications.
 
