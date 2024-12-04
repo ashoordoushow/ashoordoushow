@@ -13,7 +13,7 @@ I'm an Assyrian American, based in Chicago. I have an adorable dog, a passion fo
 
 - [Work Journal](https://gist.github.com/ashoordoushow/c9c0e022aee893c58fbb795776773f8c)
 - [LinkedIn](https://www.linkedin.com/in/ashoordoushow/)
-- [Portfolio](your-portfolio-link-here)
+- [Portfolio](https://ashoor-doushow.up.railway.app/)
 - Email: [ashoor12323@gmail.com](mailto:ashoor12323@gmail.com)
 
 ## My profile overview:
